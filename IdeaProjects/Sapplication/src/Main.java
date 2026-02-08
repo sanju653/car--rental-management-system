@@ -111,9 +111,9 @@ public class Main {
 
     public static void main(String[] args) {
         Car c1 = new Car("Mahindra", "Thar", 1, 123.45);
-        Car c2 = new Car("Tata", "swift", 2, 100.0);
-        Car c3 = new Car("Suzuki", "swift", 3, 98.97);
-        Car c4 = new Car("Mahindra", "Fortuner", 4, 134.3);
+        Car c2 = new Car("Tata", "Nexon", 2, 100.0);
+        Car c3 = new Car(" Maruthi Suzuki", "swift", 3, 98.97);
+        Car c4 = new Car("Hyundai", "Creta", 4, 134.3);
         carList.add(c1);
         carList.add(c2);
         carList.add(c3);
@@ -315,6 +315,7 @@ public class Main {
 
 
     }
+
 
 
 
